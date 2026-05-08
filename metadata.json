@@ -1,0 +1,5 @@
+{
+  "name": "Books to Picture Dramas",
+  "description": "Extracts narrative beats and key visual descriptions from fictional text using Gemini.",
+  "requestFramePermissions": []
+}
